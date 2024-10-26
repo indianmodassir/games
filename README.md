@@ -1,4 +1,2 @@
 # games
-games
-
-media user format
+multi games
